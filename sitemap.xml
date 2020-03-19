@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hm080.github.io/blog/categories/</loc>
+    <loc>https://hm080.github.io/blog/</loc>
+    <lastmod>2020-03-19T17:08:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hm080.github.io/blog/</loc>
+    <loc>https://hm080.github.io/blog/test/</loc>
+    <lastmod>2020-03-19T17:08:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hm080.github.io/blog/about/</loc>
+    <lastmod>2020-03-19T17:03:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hm080.github.io/blog/categories/</loc>
   </url>
   
   <url>
