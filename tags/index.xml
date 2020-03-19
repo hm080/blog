@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Mar 2015 16:10:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>event</title>
+      <link>http://example.org/tags/event/</link>
+      <pubDate>Fri, 13 Mar 2015 16:10:08 +0100</pubDate>
+      
+      <guid>http://example.org/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>http://example.org/tags/hackathon/</link>
+      <pubDate>Fri, 13 Mar 2015 16:10:08 +0100</pubDate>
+      
+      <guid>http://example.org/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>socgen</title>
+      <link>http://example.org/tags/socgen/</link>
+      <pubDate>Fri, 13 Mar 2015 16:10:08 +0100</pubDate>
+      
+      <guid>http://example.org/tags/socgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iot</title>
+      <link>http://example.org/tags/iot/</link>
+      <pubDate>Thu, 25 Sep 2014 14:41:06 +0200</pubDate>
+      
+      <guid>http://example.org/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sketchnote</title>
+      <link>http://example.org/tags/sketchnote/</link>
+      <pubDate>Thu, 25 Sep 2014 14:41:06 +0200</pubDate>
+      
+      <guid>http://example.org/tags/sketchnote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dotScale</title>
+      <link>http://example.org/tags/dotscale/</link>
+      <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
+      
+      <guid>http://example.org/tags/dotscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>http://example.org/tags/tools/</link>
+      <pubDate>Sat, 17 May 2014 18:03:35 +0200</pubDate>
+      
+      <guid>http://example.org/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devoxx</title>
+      <link>http://example.org/tags/devoxx/</link>
+      <pubDate>Fri, 18 Apr 2014 23:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/devoxx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meetup</title>
+      <link>http://example.org/tags/meetup/</link>
+      <pubDate>Tue, 15 Apr 2014 23:58:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>http://example.org/tags/devops/</link>
+      <pubDate>Fri, 21 Feb 2014 19:11:36 +0100</pubDate>
+      
+      <guid>http://example.org/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>http://example.org/tags/docker/</link>
+      <pubDate>Fri, 14 Feb 2014 09:13:00 +0100</pubDate>
+      
+      <guid>http://example.org/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>serf</title>
+      <link>http://example.org/tags/serf/</link>
+      <pubDate>Sat, 08 Feb 2014 21:48:08 +0100</pubDate>
+      
+      <guid>http://example.org/tags/serf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://example.org/tags/golang/</link>
+      <pubDate>Wed, 05 Feb 2014 23:35:08 +0100</pubDate>
+      
+      <guid>http://example.org/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>http://example.org/tags/blog/</link>
+      <pubDate>Mon, 03 Feb 2014 22:47:19 +0100</pubDate>
+      
+      <guid>http://example.org/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c&#39;est lu</title>
+      <link>http://example.org/tags/cest-lu/</link>
+      <pubDate>Fri, 30 May 2008 12:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/cest-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c&#39;est dit</title>
+      <link>http://example.org/tags/cest-dit/</link>
+      <pubDate>Fri, 02 Nov 2007 18:14:00 +0100</pubDate>
+      
+      <guid>http://example.org/tags/cest-dit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

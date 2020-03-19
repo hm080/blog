@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c&#39;est lu on My New Hugo Site</title>
+    <link>http://example.org/tags/cest-lu/</link>
+    <description>Recent content in c&#39;est lu on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 May 2008 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/cest-lu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Du beau temps en prévision sur l&#39;europe.</title>
+      <link>http://example.org/post/du-beau-temps-en-prevision-sur-leurope/</link>
+      <pubDate>Fri, 30 May 2008 12:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/post/du-beau-temps-en-prevision-sur-leurope/</guid>
+      <description>En se trompant d&#39;élection les Français ont choisi de faire confiance aux messieurs météo, plutôt que d&amp;rsquo;approuver un projet, ou d&amp;rsquo;en apporter un autre, la France choisit le non &amp;ldquo;d&amp;rsquo;espoir&amp;rdquo; des extrêmes.
+Espérons aussi qu&amp;rsquo;il ne fera pas trop chaud cet été.
+Liens
+ &amp;ldquo;The guardian&amp;rdquo; - Alien nation &amp;ldquo;notrevoie&amp;rdquo; - c&amp;rsquo;est un vote d&amp;rsquo;espoir et d&amp;rsquo;espérance  </description>
+    </item>
+    
+  </channel>
+</rss>

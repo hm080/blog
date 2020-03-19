@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Securities on My New Hugo Site</title>
+    <link>http://example.org/security/</link>
+    <description>Recent content in Securities on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:15:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>   Ownership</title>
+      <link>http://example.org/security/asset-security/ownership-e-g-data-owners-system-owners/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/asset-security/ownership-e-g-data-owners-system-owners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access control attacks</title>
+      <link>http://example.org/security/identity-and-access-management/access-control-attacks/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/identity-and-access-management/access-control-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acquired software security impact</title>
+      <link>http://example.org/security/software-development-security/acquired-software-security-impact/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/software-development-security/acquired-software-security-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acquisition strategy and practice</title>
+      <link>http://example.org/security/security-and-risk-management/acquisition-strategy-and-practice/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/acquisition-strategy-and-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alignment of security function to strategy, goals, mission, and objectives</title>
+      <link>http://example.org/security/security-and-risk-management/security-governance-principles/alignment-of-security-function-to-strategy-goals-mission-and-objectives-e-g-business-case-budget-and-resources/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/security-governance-principles/alignment-of-security-function-to-strategy-goals-mission-and-objectives-e-g-business-case-budget-and-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appropriate levels of awareness, training, and education required within organization</title>
+      <link>http://example.org/security/security-and-risk-management/security-education-training-and-awareness/appropriate-levels-of-awareness-training-and-education-required-within-organization/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/security-education-training-and-awareness/appropriate-levels-of-awareness-training-and-education-required-within-organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appropriate retention</title>
+      <link>http://example.org/security/asset-security/appropriate-retention/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/asset-security/appropriate-retention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment and test strategies</title>
+      <link>http://example.org/security/security-assessment-and-testing/assessment-and-test-strategies/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-assessment-and-testing/assessment-and-test-strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asset Security</title>
+      <link>http://example.org/security/asset-security/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/asset-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asset valuation</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/asset-valuation/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/asset-valuation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business continuity planning and exercises</title>
+      <link>http://example.org/security/security-operations/business-continuity-planning-and-exercises/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/business-continuity-planning-and-exercises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>business continuity requirements</title>
+      <link>http://example.org/security/security-and-risk-management/business-continuity-requirements/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/business-continuity-requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change management processes</title>
+      <link>http://example.org/security/security-operations/change-management-processes/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/change-management-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code of Professional Ethics</title>
+      <link>http://example.org/security/security-and-risk-management/professional-ethic/exercise-isc-2-code-of-professional-ethics/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/professional-ethic/exercise-isc-2-code-of-professional-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication and Network Security</title>
+      <link>http://example.org/security/communication-and-network-security/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/communication-and-network-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compliance</title>
+      <link>http://example.org/security/security-and-risk-management/compliance/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/compliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compliance</title>
+      <link>http://example.org/security/security-and-risk-management/personnel-security-policies/compliance/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/personnel-security-policies/compliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer crimes</title>
+      <link>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/computer-crimes/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/computer-crimes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conduct business impact analysis</title>
+      <link>http://example.org/security/security-and-risk-management/business-continuity-requirements/conduct-business-impact-analysis/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/business-continuity-requirements/conduct-business-impact-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confidentiality, integrity, and availability concepts</title>
+      <link>http://example.org/security/security-and-risk-management/confidentiality-integrity-and-availability-concepts/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/confidentiality-integrity-and-availability-concepts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous improvement</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/continuous-improvement/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/continuous-improvement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control assessment</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/control-assessment/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/control-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control frameworks</title>
+      <link>http://example.org/security/security-and-risk-management/security-governance-principles/control-frameworks/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/security-governance-principles/control-frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Countermeasure selection</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/countermeasure-selection/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/countermeasure-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>http://example.org/security/security-engineering/cryptography/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data breaches</title>
+      <link>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/data-breaches/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/data-breaches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data security controls</title>
+      <link>http://example.org/security/asset-security/data-security-controls/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/asset-security/data-security-controls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining and diagramming potential attacks</title>
+      <link>http://example.org/security/security-and-risk-management/threat-modeling/determining-and-diagramming-potential-attacks-e-g-social-engineering-spoofing/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/threat-modeling/determining-and-diagramming-potential-attacks-e-g-social-engineering-spoofing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Develop and document project scope and plan</title>
+      <link>http://example.org/security/security-and-risk-management/business-continuity-requirements/develop-and-document-project-scope-and-plan/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/business-continuity-requirements/develop-and-document-project-scope-and-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development environment security controls</title>
+      <link>http://example.org/security/software-development-security/development-environment-security-controls/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/software-development-security/development-environment-security-controls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disaster recovery processes and plans</title>
+      <link>http://example.org/security/security-operations/disaster-recovery-processes-and-plans/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/disaster-recovery-processes-and-plans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Due care</title>
+      <link>http://example.org/security/security-and-risk-management/security-governance-principles/due-care/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/security-governance-principles/due-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Due diligence</title>
+      <link>http://example.org/security/security-and-risk-management/security-governance-principles/due-diligence/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/security-governance-principles/due-diligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded devices and cyber-physical systems vulnerabilities</title>
+      <link>http://example.org/security/security-engineering/embedded-devices-and-cyber-physical-systems-vulnerabilities/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/embedded-devices-and-cyber-physical-systems-vulnerabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employment agreements and policies</title>
+      <link>http://example.org/security/security-and-risk-management/personnel-security-policies/employment-agreements-and-policies/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/personnel-security-policies/employment-agreements-and-policies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employment candidate screening</title>
+      <link>http://example.org/security/security-and-risk-management/personnel-security-policies/employment-candidate-screening-e-g-reference-checks-education-verification/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/personnel-security-policies/employment-candidate-screening-e-g-reference-checks-education-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employment termination processes</title>
+      <link>http://example.org/security/security-and-risk-management/personnel-security-policies/employment-termination-processes/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/personnel-security-policies/employment-termination-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering processes using secure design principles</title>
+      <link>http://example.org/security/security-engineering/engineering-processes-using-secure-design-principles/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/engineering-processes-using-secure-design-principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foundational security operations concepts</title>
+      <link>http://example.org/security/security-operations/foundational-security-operations-concepts/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/foundational-security-operations-concepts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling requirements</title>
+      <link>http://example.org/security/asset-security/handling-requirements-e-g-markings-labels-storage/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/asset-security/handling-requirements-e-g-markings-labels-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware, software, and services</title>
+      <link>http://example.org/security/security-and-risk-management/acquisition-strategy-and-practice/hardware-software-and-services/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/acquisition-strategy-and-practice/hardware-software-and-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and authentication of people and devices</title>
+      <link>http://example.org/security/identity-and-access-management/identification-and-authentication-of-people-and-devices/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/identity-and-access-management/identification-and-authentication-of-people-and-devices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identify threats and vulnerabilities</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/identify-threats-and-vulnerabilities/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/identify-threats-and-vulnerabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying threats</title>
+      <link>http://example.org/security/security-and-risk-management/threat-modeling/identifying-threats-e-g-adversaries-contractors-employees-trusted-partners/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/threat-modeling/identifying-threats-e-g-adversaries-contractors-employees-trusted-partners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity and Access Management</title>
+      <link>http://example.org/security/identity-and-access-management/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/identity-and-access-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity and access provisioning</title>
+      <link>http://example.org/security/identity-and-access-management/identity-and-access-provisioning-lifecycle-e-g-provisioning-review/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/identity-and-access-management/identity-and-access-provisioning-lifecycle-e-g-provisioning-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity as a service</title>
+      <link>http://example.org/security/identity-and-access-management/identity-as-a-service-e-g-cloud-identity/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/identity-and-access-management/identity-as-a-service-e-g-cloud-identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/implementation/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Import/export controls</title>
+      <link>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/import-export-controls/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/import-export-controls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incident management</title>
+      <link>http://example.org/security/security-operations/incident-management/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/incident-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information and asset classification</title>
+      <link>http://example.org/security/asset-security/information-and-asset-classification/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/asset-security/information-and-asset-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigations support and requirements</title>
+      <link>http://example.org/security/security-operations/investigations-support-and-requirements/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/investigations-support-and-requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legal and regulatory issues</title>
+      <link>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legislative and regulatory compliance</title>
+      <link>http://example.org/security/security-and-risk-management/compliance/legislative-and-regulatory-compliance/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/compliance/legislative-and-regulatory-compliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Licensing and intellectual property</title>
+      <link>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/licensing-and-intellectual-property-e-g-copyright-trademark-digital-rights-management/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/licensing-and-intellectual-property-e-g-copyright-trademark-digital-rights-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logging and monitoring activities</title>
+      <link>http://example.org/security/security-operations/logging-and-monitoring-activities/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/logging-and-monitoring-activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum security requirements</title>
+      <link>http://example.org/security/security-and-risk-management/acquisition-strategy-and-practice/minimum-security-requirements/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/acquisition-strategy-and-practice/minimum-security-requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile systems vulnerabilities</title>
+      <link>http://example.org/security/security-engineering/mobile-systems-vulnerabilities/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/mobile-systems-vulnerabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring and measurement</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/monitoring-and-measurement/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/monitoring-and-measurement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network attacks</title>
+      <link>http://example.org/security/communication-and-network-security/network-attacks/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/communication-and-network-security/network-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizational processes</title>
+      <link>http://example.org/security/security-and-risk-management/security-governance-principles/organizational-processes-e-g-acquisitions-divestitures-governance-committees/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/security-governance-principles/organizational-processes-e-g-acquisitions-divestitures-governance-committees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patch and vulnerability management</title>
+      <link>http://example.org/security/security-operations/patch-and-vulnerability-management/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/patch-and-vulnerability-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performing reduction analysis</title>
+      <link>http://example.org/security/security-and-risk-management/threat-modeling/performing-reduction-analysis/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/threat-modeling/performing-reduction-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Periodic reviews for content relevancy</title>
+      <link>http://example.org/security/security-and-risk-management/security-education-training-and-awareness/periodic-reviews-for-content-relevancy/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/security-education-training-and-awareness/periodic-reviews-for-content-relevancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personnel safety concerns</title>
+      <link>http://example.org/security/security-operations/personnel-safety-concerns/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/personnel-safety-concerns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personnel security policies</title>
+      <link>http://example.org/security/security-and-risk-management/personnel-security-policies/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/personnel-security-policies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical and logical assets control</title>
+      <link>http://example.org/security/identity-and-access-management/physical-and-logical-assets-control/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/identity-and-access-management/physical-and-logical-assets-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical security</title>
+      <link>http://example.org/security/security-engineering/physical-security/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/physical-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical security</title>
+      <link>http://example.org/security/security-operations/physical-security/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/physical-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventative measures</title>
+      <link>http://example.org/security/security-operations/preventative-measures/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/preventative-measures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/privacy/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://example.org/security/security-and-risk-management/personnel-security-policies/privacy/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/personnel-security-policies/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy requirements compliance</title>
+      <link>http://example.org/security/security-and-risk-management/compliance/privacy-requirements-compliance/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/compliance/privacy-requirements-compliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professional ethic</title>
+      <link>http://example.org/security/security-and-risk-management/professional-ethic/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/professional-ethic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protect privacy</title>
+      <link>http://example.org/security/asset-security/protect-privacy/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/asset-security/protect-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provisioning of resources</title>
+      <link>http://example.org/security/security-operations/provisioning-of-resources/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/provisioning-of-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recovery strategies</title>
+      <link>http://example.org/security/security-operations/recovery-strategies/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/recovery-strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reporting</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/reporting/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/reporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource protection techniques</title>
+      <link>http://example.org/security/security-operations/resource-protection-techniques/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/resource-protection-techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk assessment/analysis (qualitative, quantitative, hybrid)</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/risk-assessment-analysis-qualitative-quantitative-hybrid/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/risk-assessment-analysis-qualitative-quantitative-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk assignment/acceptance</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/risk-assignment-acceptance-e-g-system-authorization/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/risk-assignment-acceptance-e-g-system-authorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk frameworks</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/risk-frameworks/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/risk-frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk management concepts</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure communication channels</title>
+      <link>http://example.org/security/communication-and-network-security/secure-communication-channels/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/communication-and-network-security/secure-communication-channels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure network architecture design</title>
+      <link>http://example.org/security/communication-and-network-security/secure-network-architecture-design-e-g-ip-non-ip-protocols-segmentation/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/communication-and-network-security/secure-network-architecture-design-e-g-ip-non-ip-protocols-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure network components</title>
+      <link>http://example.org/security/communication-and-network-security/secure-network-components/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/communication-and-network-security/secure-network-components/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security and Risk Management</title>
+      <link>http://example.org/security/security-and-risk-management/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security architectures vulnerabilities</title>
+      <link>http://example.org/security/security-assessment-and-testing/security-architectures-vulnerabilities/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-assessment-and-testing/security-architectures-vulnerabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security architectures, designs, and solution elements vulnerabilities</title>
+      <link>http://example.org/security/security-engineering/security-architectures-designs-and-solution-elements-vulnerabilities/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/security-architectures-designs-and-solution-elements-vulnerabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Assessment and Testing </title>
+      <link>http://example.org/security/security-assessment-and-testing/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-assessment-and-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security capabilities of information systems</title>
+      <link>http://example.org/security/security-engineering/security-capabilities-of-information-systems/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/security-capabilities-of-information-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security control testing</title>
+      <link>http://example.org/security/security-assessment-and-testing/security-control-testing/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-assessment-and-testing/security-control-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security education, training, and awareness</title>
+      <link>http://example.org/security/security-and-risk-management/security-education-training-and-awareness/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/security-education-training-and-awareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Engineering</title>
+      <link>http://example.org/security/security-engineering/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security evaluation models</title>
+      <link>http://example.org/security/security-engineering/security-evaluation-models/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/security-evaluation-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security governance principles</title>
+      <link>http://example.org/security/security-and-risk-management/security-governance-principles/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/security-governance-principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security in the software development lifecycle</title>
+      <link>http://example.org/security/software-development-security/security-in-the-software-development-lifecycle/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/software-development-security/security-in-the-software-development-lifecycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security models fundamental concepts</title>
+      <link>http://example.org/security/security-engineering/security-models-fundamental-concepts/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/security-models-fundamental-concepts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Operations</title>
+      <link>http://example.org/security/security-operations/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security policies, standards, procedures and guidelines</title>
+      <link>http://example.org/security/security-and-risk-management/security-policies-standards-procedures-and-guidelines/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/security-policies-standards-procedures-and-guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security process data</title>
+      <link>http://example.org/security/security-assessment-and-testing/security-process-data-e-g-management-and-operational-controls/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-assessment-and-testing/security-process-data-e-g-management-and-operational-controls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security roles and responsibilities</title>
+      <link>http://example.org/security/security-and-risk-management/security-governance-principles/security-roles-and-responsibilities/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/security-governance-principles/security-roles-and-responsibilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service-level requirements</title>
+      <link>http://example.org/security/security-and-risk-management/acquisition-strategy-and-practice/service-level-requirements/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/acquisition-strategy-and-practice/service-level-requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Site and facility design secure principles</title>
+      <link>http://example.org/security/security-engineering/site-and-facility-design-secure-principles/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/site-and-facility-design-secure-principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Development Security</title>
+      <link>http://example.org/security/software-development-security/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/software-development-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software security effectiveness</title>
+      <link>http://example.org/security/software-development-security/software-security-effectiveness/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/software-development-security/software-security-effectiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support organization’s code of ethics</title>
+      <link>http://example.org/security/security-and-risk-management/professional-ethic/support-organization-s-code-of-ethics/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/professional-ethic/support-organization-s-code-of-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technologies and processes to remediate threats</title>
+      <link>http://example.org/security/security-and-risk-management/threat-modeling/technologies-and-processes-to-remediate-threats-e-g-software-architecture-and-operations/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/threat-modeling/technologies-and-processes-to-remediate-threats-e-g-software-architecture-and-operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test outputs</title>
+      <link>http://example.org/security/security-assessment-and-testing/test-outputs-e-g-automated-manual/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-assessment-and-testing/test-outputs-e-g-automated-manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third-party assessment and monitoring</title>
+      <link>http://example.org/security/security-and-risk-management/acquisition-strategy-and-practice/third-party-assessment-and-monitoring-e-g-on-site-assessment-document-exchange-and-review-process-policy-review/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/acquisition-strategy-and-practice/third-party-assessment-and-monitoring-e-g-on-site-assessment-document-exchange-and-review-process-policy-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third-party identity services</title>
+      <link>http://example.org/security/identity-and-access-management/third-party-identity-services-e-g-on-premise/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/identity-and-access-management/third-party-identity-services-e-g-on-premise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threat modeling</title>
+      <link>http://example.org/security/security-and-risk-management/threat-modeling/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/threat-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trans-border data flow</title>
+      <link>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/trans-border-data-flow/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/legal-and-regulatory-issues/trans-border-data-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Types of controls (preventive, detective, corrective, etc.)</title>
+      <link>http://example.org/security/security-and-risk-management/risk-management-concepts/types-of-controls-preventive-detective-corrective-etc/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/risk-management-concepts/types-of-controls-preventive-detective-corrective-etc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vendor, consultant, and contractor controls</title>
+      <link>http://example.org/security/security-and-risk-management/personnel-security-policies/vendor-consultant-and-contractor-controls/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-and-risk-management/personnel-security-policies/vendor-consultant-and-contractor-controls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web-based systems vulnerabilities</title>
+      <link>http://example.org/security/security-engineering/web-based-systems-vulnerabilities/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://example.org/security/security-engineering/web-based-systems-vulnerabilities/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
